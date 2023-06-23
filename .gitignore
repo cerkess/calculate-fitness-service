@@ -1,4 +1,4 @@
-**.iml
+.idea/calculate-fitness-service.iml
 
 target/**
 .idea/**
